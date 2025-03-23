@@ -3,7 +3,7 @@ title: "CREATIVITY"
 permalink: /CREATIVITY/
 ---
 
-# Leadership roles, including current and past management of development teams or technology research groups.
+## Leadership roles, including current and past management of development teams or technology research groups.
 
 ## Situation:
 
