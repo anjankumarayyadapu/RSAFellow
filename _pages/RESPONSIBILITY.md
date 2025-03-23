@@ -1,0 +1,4 @@
+---
+title: "RESPONSIBILITY"
+permalink: /RESPONSIBILITY/
+---
