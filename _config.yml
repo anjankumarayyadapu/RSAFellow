@@ -62,9 +62,9 @@ author:
   avatar : "/assets/images/AnjanPic1.jpg"
   bio    : "Anjan Kumar Reddy Ayyadapu is a Big Data Solutions Architect at Cloudera."
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
+    # - label: "Website"
+    #   icon: "fas fa-fw fa-link"
+    #   url: "https://"
     - label: "Google Scholar"
       icon: "fab fa-google-scholar"
       url: "https://scholar.google.com/citations?user=zz_hiRsAAAAJ&hl=en"
