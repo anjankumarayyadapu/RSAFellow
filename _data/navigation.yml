@@ -1,9 +1,9 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
   - title: "About"
     url: /about/
+  - title: "CREATIVITY"
+    url: /CREATIVITY/
+  - title: "INTERDISCIPLINARY INTEGRATION "
+    url: /INTERDISCIPLINARY INTEGRATION/
+  - title: "RESPONSIBILITY"
+    url: /RESPONSIBILITY/
