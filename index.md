@@ -11,7 +11,7 @@ I am **Anjan Kumar Reddy Ayyadapu**, a Big Data Solutions Architect Leader at Cl
 Below are the supporting evidences for the various categories:
 
 - [About][About]
-- [PCREATIVITY][CREATIVITY]
+- [CREATIVITY][CREATIVITY]
 - [INTERDISCIPLINARY INTEGRATION][INTERDISCIPLINARY INTEGRATION]
 - [RESPONSIBILITY][RESPONSIBILITY]
 
