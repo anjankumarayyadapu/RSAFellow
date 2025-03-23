@@ -47,18 +47,26 @@ Research Publications and Articles:
 [Orcid]: https://orcid.org/0009-0008-0907-6382
 
 Additionally, I have been recognized with multiple research excellence awards, including:
--	Research Excellence Distinction Award from Academic Achievements (Science Father)
--	ISSN Awards for International Research Contributions
+
+- [Research Excellence Distinction Award from Academic Achievements][Research Excellence Distinction Award from Academic Achievements] (Science Father)
+- [ISSN Awards for International Research Contributions][ISSN Awards for International Research Contributions]
+
+[Research Excellence Distinction Award from Academic Achievements]: https://academicachievements.org/anjan-kumar-ayyadapu-bigdata-research-excellence-distinction-award-7461/
+[ISSN Awards for International Research Contributions]: https://issnawards.com/amo-team/anjan-kumar-reddy-ayyadapu/
 
 ### Industry Influence and Thought Leadership
 
 Beyond my technical and research contributions, I actively engage in mentorship, professional networking, and industry knowledge-sharing, solidifying my role as a thought leader in AI and Big Data. My affiliations include:
--	Senior Member and Author for IEEE
+- [Senior Member and Author for IEEE][Senior Member and Author for IEEE]
 -	Research Staff Member at Harvard Business Review
--	Royal Member of the IOASD
+- [Royal Member of the IOASD][Royal Member of the IOASD]
 -	Member of the International Association of Engineers (IAENG)
 -	Member of the Association for the Advancement of Artificial Intelligence (AAAI)
 -	Insider Member of the AI Accelerator Institute
+
+[Senior Member and Author for IEEE]: https://ieeexplore.ieee.org/author/855986007189918
+[Royal Member of the IOASD]: https://ioasd.org/royal-fellows/membership-id-frioasd-137-2024
+
 
 My influence extends to mentoring and advisory roles, where I guide aspiring AI professionals and industry experts as:
 -	Expert Mentor at ADPlist and Topmate
