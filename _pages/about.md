@@ -22,7 +22,9 @@ I have earned multiple industry-recognized certifications that demonstrate my de
 -	AWS Certified Machine Learning – Specialty
 -	Certifications from Google Cloud, DataBricks, Stanford University, and PMI
 
-Link to Credly Badges
+Link to - [Credly Badges][Credly Badges]
+
+[Credly Badges]: https://www.credly.com/users/anjan-kumar-ayyadapu.d9f08843
 
 My technical proficiency in cloud security spans both private and public cloud environments (AWS & GCP), further reinforcing my ability to architect secure, scalable solutions at an enterprise level.
 
@@ -35,7 +37,14 @@ My scholarly contributions include:
 - Peer-reviewing technical papers for IEEE conferences and the Journal of Computer Science.
 -	Holding patents related to AI-driven security and data analytics solutions.
 
-Research Publications and Articles: Research Gate, Google Scholar, Orcid
+Research Publications and Articles: 
+- [Research Gate][Research Gate]
+- [Google Scholar][Google Scholar]
+- [Orcid][Orcid]
+
+[Research Gate]: https://www.researchgate.net/profile/Anjan-Kumar-Ayyadapu?ev=hdr_xprf
+[Google Scholar]: https://scholar.google.com/citations?user=zz_hiRsAAAAJ&hl=en
+[Orcid]: https://orcid.org/0009-0008-0907-6382
 
 Additionally, I have been recognized with multiple research excellence awards, including:
 -	Research Excellence Distinction Award from Academic Achievements (Science Father)
