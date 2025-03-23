@@ -3,7 +3,7 @@ title: "RESPONSIBILITY"
 permalink: /RESPONSIBILITY/
 ---
 
-# The extent and complexity of technology driven projects or initiatives you have overseen.
+## The extent and complexity of technology driven projects or initiatives you have overseen.
 
 ## Situation:
 
