@@ -6,7 +6,7 @@ layout: single
 author_profile: true
 ---
 
-I am **Anjan Kumar Reddy Ayyadapu**, a Big Data Solutions Architect Leader at Cloudera, with a specialization in leading-edge AI platform solutions. This page has been created to provide supporting evidence for my application for **RSA Raptor Fellow Membership**.
+I am **Anjan Kumar Reddy Ayyadapu**, a Big Data Solutions Architect Leader at Cloudera, with a specialization in leading-edge AI platform solutions. This page has been created to provide supporting evidence for my application for **Raptor Fellow Membership**.
 
 Below are the supporting evidences for the various categories:
 
