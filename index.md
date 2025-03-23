@@ -15,7 +15,7 @@ Below are the supporting evidences for the various categories:
 - [INTERDISCIPLINARY INTEGRATION][INTERDISCIPLINARY INTEGRATION]
 - [RESPONSIBILITY][RESPONSIBILITY]
 
-[About]: https://anjankumarayyadapu.github.io/BCS/Body%20of%20Work/
-[CREATIVITY]: https://anjankumarayyadapu.github.io/BCS/Professional%20Impact/
-[INTERDISCIPLINARY INTEGRATION]: https://anjankumarayyadapu.github.io/BCS/Additional%20Sub-Criterion/
-[RESPONSIBILITY]: https://anjankumarayyadapu.github.io/BCS/Standing%20in%20Community/
+[About]: https://anjankumarayyadapu.github.io/RaptorFellow/about/
+[CREATIVITY]: https://anjankumarayyadapu.github.io/RaptorFellow/CREATIVITY/
+[INTERDISCIPLINARY INTEGRATION]:https://anjankumarayyadapu.github.io/RaptorFellow/INTERDISCIPLINARY%20INTEGRATION/
+[RESPONSIBILITY]: https://anjankumarayyadapu.github.io/RaptorFellow/RESPONSIBILITY/
