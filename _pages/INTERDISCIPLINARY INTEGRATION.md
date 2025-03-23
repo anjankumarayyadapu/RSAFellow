@@ -3,7 +3,7 @@ title: "INTERDISCIPLINARY INTEGRATION"
 permalink: /INTERDISCIPLINARY INTEGRATION/
 ---
 
-# Successful mentorship of professionals from diverse backgrounds in applying technology to their domains.
+## Successful mentorship of professionals from diverse backgrounds in applying technology to their domains.
 
 ## Situation:
 
